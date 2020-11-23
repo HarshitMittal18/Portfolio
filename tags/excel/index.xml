@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel on Harshit Mittal</title>
+    <link>/tags/excel.html</link>
+    <description>Recent content in Excel on Harshit Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 11:14:48 -0400</lastBuildDate><atom:link href="/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Superstore Data Story</title>
+      <link>/post/project-3.html</link>
+      <pubDate>Sun, 12 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>/post/project-3.html</guid>
+      <description>Data are just summaries of thousand of stories and in this project I have leveraged this power of data to communicate a Data Story about a Superstore located in USA. The story I choose revolves around 4 Sales Personal namely Anna Andreadi, Cassandra Brandow, Chuck Magee and Kelly Williams that work in the Superstore in four different regions namely West, South, East and Central repectively. I have tried to analyse the sales performance of these 4 sales personal and in doing so I have used Excel so as to create a powerful Data Story.</description>
+    </item>
+    
+  </channel>
+</rss>

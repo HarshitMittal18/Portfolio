@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics on Harshit Mittal</title>
+    <link>/tags/data-analytics.html</link>
+    <description>Recent content in Data Analytics on Harshit Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 11:00:59 -0400</lastBuildDate><atom:link href="/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-1: Amazing Mart Analysis</title>
+      <link>/post/project-1.html</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>/post/project-1.html</guid>
+      <description>This is my first project under Data Analytics. In this, I have leveraged the power of Tableau to create a nice interactive dashboard to analyse the Profit Margins of customers of Amazing Mart with respect to a particular state. By doing so I want to examine the reach of Amazing Mart in the European Markets and to suggest improvements and future strategies. Further, I have also analysed the Sales Target for Amazing Mart for three categories that is furniture, office supplies and technology.</description>
+    </item>
+    
+    <item>
+      <title>Project-2: Startup Expansion Anaytics</title>
+      <link>/post/project-2.html</link>
+      <pubDate>Mon, 11 May 2020 11:13:32 -0400</pubDate>
+      
+      <guid>/post/project-2.html</guid>
+      <description>WeWashYouSleep is a laundary-pickup services startup. This is a relatively small company and they cannot compete with the big players in the major cities. The company&amp;rsquo;s strategy is to build a vast network in smaller cities. It already has a strong presence in 140 locations and recently opened stores in 10 new cities. Additionally, the company has two separate sales regions. We have to identify which of the two sales regions are performing better and which of the 10 new locations have the best potential for company to invest more funds into marketing.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Superstore Data Story</title>
+      <link>/post/project-3.html</link>
+      <pubDate>Sun, 12 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>/post/project-3.html</guid>
+      <description>Data are just summaries of thousand of stories and in this project I have leveraged this power of data to communicate a Data Story about a Superstore located in USA. The story I choose revolves around 4 Sales Personal namely Anna Andreadi, Cassandra Brandow, Chuck Magee and Kelly Williams that work in the Superstore in four different regions namely West, South, East and Central repectively. I have tried to analyse the sales performance of these 4 sales personal and in doing so I have used Excel so as to create a powerful Data Story.</description>
+    </item>
+    
+  </channel>
+</rss>
